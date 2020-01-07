@@ -1,35 +1,49 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Changed network interface server007",
       "attention": false,
       "tech": "John Doe",
-      "date": "2020-01-07T06:30:51.631Z",
-      "id": 1
+      "date": "2020-01-07T21:50:42.059Z"
     },
     {
       "id": 3,
       "message": "Wireless driver on kwcllt12",
       "attention": false,
       "tech": "Sara Wilson",
-      "date": "2020-01-07T07:13:52.924Z"
+      "date": "2020-01-07T21:50:49.202Z"
+    },
+    {
+      "message": "Exchange server down",
+      "attention": true,
+      "tech": "Cédrique Foulon",
+      "date": "2020-01-07T21:42:04.586Z",
+      "id": 4
+    },
+    {
+      "message": "Computer broke",
+      "attention": false,
+      "tech": "Cédrique Foulon",
+      "date": "2020-01-07T21:51:00.476Z",
+      "id": 5
     }
   ],
   "techs": [
     {
-      "id": 1,
-      "firstName": "John",
-      "lastName": "Doe"
+      "firstName": "Cédrique",
+      "lastName": "Foulon",
+      "id": 1
     },
     {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
       "firstName": "Sara",
-      "lastName": "Wilson"
+      "lastName": "Larson",
+      "id": 2
+    },
+    {
+      "firstName": "Mario",
+      "lastName": "Frapucinno",
+      "id": 3
     }
   ]
 }
