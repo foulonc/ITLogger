@@ -8,13 +8,6 @@
       "id": 1
     },
     {
-      "message": "Reboot fileserver",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-01-07T06:31:03.605Z",
-      "id": 2
-    },
-    {
       "message": "Wireless driver failed on all clients",
       "attention": true,
       "tech": "Sam Smith",
