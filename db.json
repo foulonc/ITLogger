@@ -8,11 +8,11 @@
       "id": 1
     },
     {
-      "message": "Wireless driver failed on all clients",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-01-07T06:31:32.262Z",
-      "id": 3
+      "id": 3,
+      "message": "Wireless driver on kwcllt12",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-01-07T07:13:52.924Z"
     }
   ],
   "techs": [
